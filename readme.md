@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **[LinkedIN](https://www.linkedin.com/in/dhruv-batra-49050b1a4/)**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1d_RaD9HHbrsX6NWQu4xEHMSFS5QsyLvW/view)
+- 📄 Know about my experiences [Resume]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
