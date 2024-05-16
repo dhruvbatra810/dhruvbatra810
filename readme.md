@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dhruv-batra-49050b1a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhruv-batra-49050b1a4/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/i_wanna_be_pink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/i_wanna_be_pink" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/dhruvbatra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/dhruvbatra/" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/https://atcoder.jp/users/dhruvbatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="https://atcoder.jp/users/dhruvbatra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dhruv-batra-49050b1a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhruv-batra-49050b1a4/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/i_wanna_be_pink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/i_wanna_be_pink" height="30" width="40" /></a>
+<a href="https://leetcode.com/dhruvbatra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/dhruvbatra/" height="30" width="40" /></a>
+<a href="https://atcoder.jp/users/dhruvbatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="https://atcoder.jp/users/dhruvbatra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
